@@ -1,1 +1,1 @@
-# Font-Awesome
+Website includes: Font Awesome, Favicon, Google Fonts
